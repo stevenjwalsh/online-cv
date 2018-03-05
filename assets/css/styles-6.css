@@ -85,10 +85,10 @@ p {
   margin-bottom: 15px;
 }
 .sidebar-wrapper .profile-img {
-  max-width: 110px;
+  max-width: 120px;
   margin-bottom: 15px;
   border: 0px solid #fff;
-  border-radius: 80%;
+  border-radius: 50%;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper .contact-list .fa {
