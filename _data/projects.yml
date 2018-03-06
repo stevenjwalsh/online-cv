@@ -21,12 +21,4 @@ projects:
     title: Chinese Zodiac web site
     link: "#"
     tagline: "A website fully coded in PHP. This was was first course and introduction to PHP which was challenging but rewarding."
-  - project:
-    title: Node.js To-Do App
-    link: "#"
-    tagline: "Made a simple to-do web application using Node.js. The app allows the user to enter a to-do item and add it to a 
-    list by clicking a button."
-- project:
-    title: Vue.js To-Do App
-    link: "#"
-    tagline: "Made a simple punching-bag game that can be reset when the game has finished."
+  
