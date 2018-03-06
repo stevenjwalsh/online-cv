@@ -1,16 +1,11 @@
 - education:
-  degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  diploma: Web Development
+  school: College of the North Atlantic
+  time: 2014-2017
+  details: "Completed a two-year dilpoma program in web development that provided a broad foundation in various
+  web development techniques, languages, and technologies."
 - education:
-  degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2007 - 2011
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: B.A in Greek and Roman Studies/Philosophy
+  university: Memorial University
+  time: 1999 - 2005
+  details: "Studied the history, culture and literature of the ancient Greeks and Romans. Also studied various philosophies, both ancient and modern."
