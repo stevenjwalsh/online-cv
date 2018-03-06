@@ -1,4 +1,4 @@
-intro: "Some of the school assignments and personal projects I have work on:"
+intro: "Some of the projects I have work on:"
 projects:
   - project:
     title: Cowboy Charlie web site
@@ -22,6 +22,11 @@ projects:
     link: "#"
     tagline: "A website fully coded in PHP. This was was first course and introduction to PHP which was challenging but rewarding."
   - project:
-    title: Delta
+    title: Node.js To-Do App
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Made a simple to-do web application using Node.js. The app allows the user to enter a to-do item and add it to a 
+    list by clicking a button."
+- project:
+    title: Vue.js To-Do App
+    link: "#"
+    tagline: "Made a simple punching-bag game that can be reset when the game has finished."
