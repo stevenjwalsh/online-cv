@@ -17,10 +17,11 @@ style: styles-6
 name: Steven Walsh
 tagline: Web Developer
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Graduated (June 2017) from the Web Development Diploma program at College of the North Atlantic. 
+I am a junior web developer with a strong desire to learn and grow with a professional company. 
+I have a solid foundation in the following areas such as object-oriented programming, website planning, design, development, and testing (desktop and mobile),
+user-interface design, web frameworks, web server administration (Windows and Linux environments), computer networking and infrastructure, multimedia development,
+and database design and development (relational databases).'
 
 #sidebar links
 email: swalsh99@hotmail.com
