@@ -1,18 +1,13 @@
 - skill:
-  name: Python & Django
-  level: 98%
+  name: Languages (intermediate): C#, Javascript, PHP, Java
 - skill:
-  name: Javascript & jQuery
-  level: 98%
+  name: Frameworks (intermediate): ASP.net, Bootstrap, Vue.js, React (beginner) CakePHP
 - skill:
-  name: Angular
-  level: 98%
+  name: Technologies (intermediate): Node.js, Visual Studio, Ajax, HTML5, CSS, jQuery, Git, JSON, Google Analytics, WordPress, Drupal
 - skill:
-  name: HTML5 & CSS
-  level: 95%
+  name: Web Servers (intermediate): Windows 2008, Apache, IIS
 - skill:
-  name: Ruby on Rails
-  level: 85%
+  name: Databases (intermediate): MySQL, MongoDB
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Networking (intermediate): TCP/IP, LANs/WANs, cloud-computing, security (VPN, IPsec, SSL/TLS, firewalls, etc.)
+ 
