@@ -2,7 +2,6 @@ intro: "Some of the projects I have work on:"
 projects:
   - project:
     title: Cowboy Charlie web site
-    link: "#hook"
     tagline: "A responsive website dedicated to the life and artwork of Charles Russell. Coded and deployed using WordPress.
     The project can be viewed at http://students.cnawebdev.org/SW527/PR1100/ ."
   - project:
