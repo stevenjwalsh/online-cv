@@ -1,13 +1,13 @@
 - skill:
-  name: Languages (intermediate): C#, Javascript, PHP, Java
+  name: C#, Javascript, PHP, Java
 - skill:
-  name: Frameworks (intermediate): ASP.net, Bootstrap, Vue.js, React (beginner) CakePHP
+  name: ASP.net, Bootstrap, Vue.js, React (beginner) CakePHP
 - skill:
-  name: Technologies (intermediate): Node.js, Visual Studio, Ajax, HTML5, CSS, jQuery, Git, JSON, Google Analytics, WordPress, Drupal
+  name: Node.js, Visual Studio, Ajax, HTML5, CSS, jQuery, Git, JSON, Google Analytics, WordPress, Drupal
 - skill:
-  name: Web Servers (intermediate): Windows 2008, Apache, IIS
+  name: Windows 2008, Apache, IIS
 - skill:
-  name: Databases (intermediate): MySQL, MongoDB
+  name: MySQL, MongoDB
 - skill:
-  name: Networking (intermediate): TCP/IP, LANs/WANs, cloud-computing, security (VPN, IPsec, SSL/TLS, firewalls, etc.)
+  name: TCP/IP, LANs/WANs, cloud-computing, security (VPN, IPsec, SSL/TLS, firewalls, etc.)
  
